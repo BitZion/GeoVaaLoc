@@ -1,0 +1,2 @@
+# GeoVaaLoc
+Vaadin geolocation test
